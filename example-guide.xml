@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="firefly-xmltv" generator-info-url="github.com/fahri314/firefly-xmltv">
+  <channel id="beIN HD">
+    <display-name lang="tr">beIN HD</display-name>
+    <icon src="http://contentlibrary.digiturk.com.tr/Channel/483/Image/72x44_beinhd.png"></icon>
+    <url>https://www.digiturk.com.tr</url>
+  </channel>
+  <programme start="20210214025500 +0300" stop="20210214030000 +0300" channel="beIN HD">
+    <title lang="tr">HAVA DURUMU</title>
+    <desc lang="tr"></desc>
+  </programme>
+  <programme start="20210214020000 +0300" stop="20210214025500 +0300" channel="beIN HD">
+    <title lang="tr">HABER</title>
+    <desc lang="tr"></desc>
+  </programme>
+  <programme start="20210214015500 +0300" stop="20210214020000 +0300" channel="beIN HD">
+    <title lang="tr">REKLAM</title>
+    <desc lang="tr"></desc>
+  </programme>
+</tv>
