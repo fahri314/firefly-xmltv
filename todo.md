@@ -16,3 +16,5 @@
 - [ ] Enable/Disable EPG sources in yaml file
 - [ ] Find/Add US EPG sources
 - [ ] Find/Add UK EPG sources
+- [ ] Run like a cron process
+- [ ] Add linux system file
